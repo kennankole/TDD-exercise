@@ -9,6 +9,6 @@ function stringLength(str) {
    
 }
 
-module.exports = stringLength
 
+module.exports = stringLength;
 

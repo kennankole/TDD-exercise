@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "This repo contains TDD exercises",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest --coverage"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kennankole/TDD-exercise.git"
