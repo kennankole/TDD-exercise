@@ -1,0 +1,26 @@
+{
+  "name": "tdd-exercise",
+  "version": "1.0.0",
+  "description": "This repo contains TDD exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennankole/TDD-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennankole/TDD-exercise/issues"
+  },
+  "homepage": "https://github.com/kennankole/TDD-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
